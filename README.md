@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Sunslihgt
-- 👀 I’m interested in ...
+- 👀 I’m interested in computer science
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any java/python/html projects
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on any java/python/javascript projects

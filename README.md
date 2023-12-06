@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Sunslihgt
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any java/python/javascript projects
+- 🌱 I’m currently learning Visual C++/CLI
+- 💞️ I’m looking to collaborate on any projects
+- 🔧 I have some experience in Java, C, C++, C#, Python, Javascript, PHP, SQL, HTML and CSS

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel Deschamps
 - 📚 I am a software student in CESI engineering school (year 3)
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning Web développent (Angular/Symfony) 
+- 🌱 I’m currently learning Web developpent (Angular/Symfony) 
 - 💞️ I’m looking to collaborate on any projects
 - 🔧 I have some experience in Java, C, C++, C#, Python, Javascript, PHP, SQL, HTML, CSS and MySQL. 
